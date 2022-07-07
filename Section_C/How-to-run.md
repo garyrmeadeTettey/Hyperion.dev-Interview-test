@@ -11,7 +11,7 @@
 
 * Click **"Install"**.
 
-Allow setup to download and install Python. Follow the instructions.
+Allow setup to download and install Python. Follow the instructions.<br />
 ![](images/setup.png)
 
 *Ensure you have the Python extension for Visual Studio Code installed.
@@ -20,8 +20,8 @@ Allow setup to download and install Python. Follow the instructions.
 *Check the compiler version is correct.
 ![](images/version.png)
 
-*Once the installation is complete, you can download the code from github.
+*Once the installation is complete, you can download the code from github.<br />
 ![](images/github.png)
 
-*Once you have the code, you can run it in the terminal using the **cd** & **ls** commands to navigate your file system on windows [These differ for Mac&Linux].
+*Once you have the code, you can run it in the terminal using the **cd** & **ls** commands to navigate your file system on windows [These differ for Mac&Linux].<br />
 ![](images/Terminal.png)
