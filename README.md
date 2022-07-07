@@ -5,4 +5,4 @@
 * [Section_C: Code Challenge](https://github.com/garyrmeadeTettey/Hyperion.dev-Interview-test/tree/main/Section_C)<br />
 * [Section_D: Loom Video](https://github.com/garyrmeadeTettey/Hyperion.dev-Interview-test/tree/main/Section_D)<br />
 
-PLease offer any advice if aaplicable.💻
+PLease offer any advice if applicable.💻
